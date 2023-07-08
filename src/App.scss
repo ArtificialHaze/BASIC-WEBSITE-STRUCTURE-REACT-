@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif, monospace;
+  scroll-behavior: smooth;
+  text-decoration: none !important;
+}
+
+h1,
+h2 {
+  text-transform: uppercase;
+  color: #fff;
+  width: 140px;
+  border-bottom: 2px solid #fff;
+  padding: 0.5rem;
+}
